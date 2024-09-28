@@ -1,7 +1,12 @@
 example = 'Топинамбур'
+
 print(example[0])
+
 print(example[-1])
-print(example[5:10])
+
+print(example[4:])
+
 print(example[::-1])
-result=example[1::2]
-print(result)
+
+print(example[1::2])
+
